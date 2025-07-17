@@ -38,5 +38,6 @@
 - 🎯 **긍정 자기 표현 유도**  
   자존감을 높이는 미션 및 습관 강화 요소 제공
 
----
+<img width="401" height="439" alt="image" src="https://github.com/user-attachments/assets/656e2d21-9a01-4bb7-9375-800661b23e63" />
+
 
